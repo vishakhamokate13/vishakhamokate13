@@ -22,6 +22,12 @@
 - 🌟 **Your First Contribution** – My first GitHub contribution project  
 - 🌟 Basic Web Pages using HTML & CSS
 
+## 🔗 GitHub Profile
+👉 [Visit my GitHub](https://github.com/vishakhamokate13)
+
+✨ *Thank you for visiting my profile!* ✨
+
+
 
 
 
