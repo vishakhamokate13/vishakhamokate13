@@ -177,7 +177,7 @@ From internships to small project wins.  
 
 
 
-![Contribution Graph](./github-user-contribution.svg)
+![Contribution Graph](./github-user-contribution%20(2).svg)
 
 ---
 ## 🌐 Let's Connect  
