@@ -127,14 +127,8 @@ From internships to small project wins.  
 
 
 <p align="left">
-
-  <img src="./images/html.png" width="45"/><br>
+  <img src="./images/html.png" width="45"/><br>
   <img src="./images/css.png" width="45"/>
-
-
-  
-
-
 </p>
 
 
@@ -173,35 +167,9 @@ From internships to small project wins.  
 
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/vaibhavihole31/">
+  <a href="https://www.linkedin.com/in/vishakha-mokate-a354263b5/">
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-
-  </a>
-
-  <a href="https://twitter.com/VaibhaviHole">
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
-
-  </a>
-
-  <a href="https://peerlist.io/vaibhavihole31">
-
-    <img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/>
-
-  </a>
-
-  <a href="https://medium.com/@Vaibhavihole31">
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" width="40"/>
-
-  </a>
-
-  <a href="https://www.youtube.com/channel/UC0eauXsOnwwkNTjppgk9-vw">
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40"/>
-
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
 
 </p>
 
