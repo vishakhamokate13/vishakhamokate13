@@ -1,4 +1,4 @@
-# 🌸 Hi, I'm Vaibhavi Hole  
+# 🌸 Hi, I'm Vishakha Mokate  
 
 
 
@@ -28,7 +28,7 @@
 
 ```yaml
 
-name: Vaibhavi Hole
+name: Vishakha Mokate
 
 location: Pune, Maharashtra, India 🇮🇳
 
