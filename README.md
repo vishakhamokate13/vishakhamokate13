@@ -128,11 +128,9 @@ From internships to small project wins.  
 
 <p align="left">
 
-  <img src="./images/html.png" width="45"/>
+  <img src="./images/html.png" width="45"/><br>
   <img src="./images/css.png" width="45"/>
 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
 
   
 
