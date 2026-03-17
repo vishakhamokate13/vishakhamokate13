@@ -10,14 +10,6 @@
 
 
 
-<p align="center">
-
-  <b>Building RoadToCode 🚀 | SDE I at GetReplies | AWS Community Builder ☁️ | Full-Stack Developer</b>
-
-</p>
-
-
-
 ---
 
 
@@ -69,7 +61,6 @@ goal: Become a Software Develop
 ## 📈 GitHub Stats  
 
 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=vishakhamokate13)](https://git.io/streak-stats)
 
 
@@ -86,7 +77,7 @@ goal: Become a Software Develop
 
 
 
-![Contribution Graph](./github-user-contribution%20(2).svg)
+![Contribution Graph](./github-user-contribution.svg)
 
 ---
 
