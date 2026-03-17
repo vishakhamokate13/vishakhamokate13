@@ -8,6 +8,7 @@
 
 </p>
 ---
+
 ## 👩🏻‍💻 About Me  
 
 
@@ -16,72 +17,26 @@
 
 name: Vishakha Mokate
 
-location: ahilyanagar, Maharashtra, India 🇮🇳
-
-role: BCS
-
-age: 20 (Self-made techie 💪)
+location: Maharashtra, India 
 
 mission: To learn computer skills,
  build useful projects,and
  become a successful IT professional.
 
+role: B.Sc Computer Science Student
 
+passion: Web Development & Technology
 
+mission: Learn programming and build useful tech projects
 currently:
+  - Learning HTML
+  - Learning CSS
+  - Learning JavaScript
+  - Practicing Git & GitHub
+  - Building Web Projects
+goal: Become a Software Developer
 
-  - Architecting RoadToCode platform
 
-  - Teaching MERN Stack to aspiring developers
-
-  - Sharing AWS Cloud knowledge
-
-  - Building "Student Story" project
-
-open_to: DevRel opportunities 🥑
-
-```
-I might have left college, but I never left learning.  
-
-At just 20, I’m building platforms, mentoring students, and shaping tech careers.
-
----
-## 🚀 What I Do  
-
-### 🏗 Founding Member @ Road To Code  
-
-- Architected and scaled the learning platform  
-
-- Mentored students in Full-Stack Development  
-
-- Helped hundreds land their first internships  
-
-- Built production-grade MERN applications  
-
----
-### ☁️ AWS Community Builder  
-
-- Certified AWS Cloud Practitioner  
-
-- Sharing AWS knowledge & exam strategies on LinkedIn  
-
-- Helping learners simplify cloud concepts  
-
----
-
-### 📚 Student Story Project  
-
-A platform to highlight student achievements —  
-
-From internships to small project wins.  
-
-> Because small wins inspire big dreams 💫  
----
-## 🛠 Tech Stack  
-<p align="left">
-  <img src="./images/html.png" width="45"/><br>
-  <img src="./images/css.png" width="45"/>
-</p>
 ---
 ## 📈 GitHub Stats  
 [![GitHub Streak][![GitHub Streak](https://streak-stats.demolab.com?user=vishakhamokate13)](https://git.io/streak-stats)]
