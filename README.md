@@ -61,7 +61,8 @@ goal: Become a Software Develop
 ## 📈 GitHub Stats  
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vishakhamokate13)](https://git.io/streak-stats)
+
+[![GitHub Streak][![GitHub Streak](https://streak-stats.demolab.com?user=vishakhamokate13)](https://git.io/streak-stats)]
 
 
 
@@ -73,14 +74,13 @@ goal: Become a Software Develop
 
 
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavihole31&theme=github-compact&hide_border=true)
+![Contribution Graph](./github-user-contribution%20(1).svg)
 
 
 
 ![Contribution Graph](./github-user-contribution.svg)
 
 ---
-
 
 
 ## 🌐 Let's Connect  
