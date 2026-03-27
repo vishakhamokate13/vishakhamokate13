@@ -67,7 +67,7 @@ goal: Become a Software Developer
 
 
 
-![Contribution Graph](./file:///C:/Users/Admin/Desktop/vishakhamokate13/github-user-contribution.svg)
+![Contribution Graph](https://platane.github.io/snk/)
 
 ---
 
