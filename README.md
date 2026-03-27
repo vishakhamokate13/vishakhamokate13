@@ -56,7 +56,7 @@ goal: Become a Software Developer
 
 ## 📊 GitHub Activity Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gayatrimhase021\&theme=github-compact\&hide_border=true)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vishakhamokate13)](https://git.io/streak-stats)
 
