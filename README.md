@@ -1,76 +1,92 @@
-# 🌸 Hi, I'm Vishakha Mokate
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20👋&animation=fadeIn&type=waving&color=gradient&height=120"/>
-</p>
 
-<p align="center">
-<b>B.Sc Computer Science Student 💻 | Web Developer 🌐 | Tech Learner 🚀</b>
-</p>
+🌸 Hi, I'm Shravani Sherkar
+<p align="center">   <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%80%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=120"/> </p><p align="center"> <b>Computer Science Student 👩🏻‍💻 | Learning Web Development 🌐 | Future Software Engineer 🚀</b> </p>
+
+
 
 ---
 
-## 👩‍💻 About Me
 
-```yaml
-name: Vishakha Mokate
-location: Maharashtra, India 🇮🇳
-role: B.Sc Computer Science Student
-passion: Web Development & Technology
-mission: Learn programming and build useful tech projects
-currently:
-  - Learning HTML
-  - Learning CSS
-  - Practicing Git & GitHub
-  - Building Web Projects
-goal: Become a Software Developer
-```
+## 👩🏻‍💻 About Me  
+name: Shravani Sherkar
+location: ahilyanagar, maharashra, India 
+age: 20
+education: BSc  Computer Science (Student)
+currently_learning:
+  - HTML
+  - CSS
+  - Basics of JavaScript
+goal: Become a Full-Stack Developer 💻
+interest:
+  - Web Development
+  - Cloud Computing
+  - Building Real Projects
+  I’m a passionate Computer Science student who loves learning new technologies.
 
----
 
-## 🛠 Tech Stack
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vishakhamokate13)](https://git.io/streak-stats)
-
-</p>
-
----
-
-## 📊 GitHub Activity Graph
+-----
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vishakhamokate13)](https://git.io/streak-stats)
+  ## 🚀 What I Do  
+  -Currently building my foundation in Web Development and exploring how websites actually work behind the scenes.
+  🚀 My Learning Journey
 
----
+- Started with HTML – building basic web pages
+- Learning CSS – styling and designing websites
+- Next Step – JavaScript
+- Future Goal – Full Stack + Cloud
 
-## 🐍 Contribution Snake
+Every day I try to improve 1% 💪
+
+------
 
 
 
+  ## 🛠 Tech Stack  
+  <p align="left"> 
 
-![Contribution Graph](https://platane.github.io/snk/)
+  <img src="html5-brands-solid-full.svg" width="45"/>
+   <img src="./css3-alt-brands-solid-full.svg" width="45"/> 
+   <img src="./js-brands-solid-full.svg" width="45"/> </p>
 
----
 
-## 💭 Personal Motto
+  ----
 
-> Learn. Build. Improve. Repeat. 🔁
+
+
+## 📈 GitHub Stats  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shravanisherkar31)](https://git.io/streak-stats)
+
+
+
+## 🐍 Contribution Snake  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shravanisherkar31&theme=github-compact&hide_border=true)
+
+ ![Contribution Graph](./github-user-contribution%20(2).svg)
+
+
+## 🚀 Featured Project  
+
+### 📲 Automated QR-Based Data Collection System  
+
+A full-stack web application that automates user data collection using QR codes.  
+Users can scan QR to auto-submit data, and admin can manage records through a secure dashboard.
+
+**Features:**  
+- QR Code Generation & Scanning  
+- Automatic Data Storage (MongoDB)  
+- Admin Login System  
+- View / Delete Records  
+- Export Data to Excel  
+
+**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB  
+ 
+ 
+  💭 Personal Motto
+
+Learn. Build. Improve. Repeat. 🔁
+
+ 
