@@ -1,6 +1,6 @@
 
 
-🌸 Hi, I'm Shravani Sherkar
+🌸 Hi, I'm Vishakha Mokate
 <p align="center">   <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%80%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=120"/> </p><p align="center"> <b>Computer Science Student 👩🏻‍💻 | Learning Web Development 🌐 | Future Software Engineer 🚀</b> </p>
 
 
@@ -9,7 +9,7 @@
 
 
 ## 👩🏻‍💻 About Me  
-name: Shravani Sherkar
+name: Vishakha Mokate
 location: ahilyanagar, maharashra, India 
 age: 20
 education: BSc  Computer Science (Student)
@@ -58,12 +58,12 @@ Every day I try to improve 1% 💪
 
 ## 📈 GitHub Stats  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shravanisherkar31)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vishakhamokate13)](https://git.io/streak-stats)
 
 
 
 ## 🐍 Contribution Snake  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shravanisherkar31&theme=github-compact&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishakhamokate13&theme=github-compact&hide_border=true)
 
  ![Contribution Graph](./github-user-contribution%20(2).svg)
 
